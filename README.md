@@ -30,9 +30,17 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=googlecloud)
 
+## 🎯 Featured Project : KamauchaNepali
+
+🌐 **[Kamaucha Nepali](https://kamauchanepali.com/)** — Empowering Nepali youths to create, earn, and grow online.
+🚀 A homegrown platform to get tip from viewers in Nepal.
+🧩 Built using Django, Tailwind CSS, PostgreSQL, and auth-integrated dashboards.
+💡 Features creating your own tip page , tip alert , tip alert in youtube , tip goal etc.
+
 ---
 
-## 🎯 Featured Project: AIQUIZHUB
+
+## 🎯 Featured Project : AIQUIZHUB
 
 🌐 **[LokQuiz](https://aiquizhub.com/)** — Play AI-generated quizzes, win prizes, and learn with fun!  
 🔥 A platform where Nepali youths can earn, learn, and play.  
